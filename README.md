@@ -44,6 +44,10 @@ Les pays Méditerranéens et Latino-Américains se distinguent :
 95 % des pays Méditerranéens et 94,12 % des pays Latino-Américains sont "au-dessus de la tendance".
 Les différences entre les résidus moyens des régions sont significatives.
 
+![Espérance de vie vs PIB](esperance_vie_vs_pib_mediterranee_amerique_latine.png)
+
+*Figure 1 : Analyse de la relation entre l'espérance de vie et le PIB, avec un focus sur les régions Méditerranée et Amérique Latine.*
+
 **Facteurs possibles expliquant la surperformance** :
 
 - Méditerranée :
@@ -57,6 +61,7 @@ Les différences entre les résidus moyens des régions sont significatives.
   - Solidarité sociale : Les sociétés latino-américaines sont souvent caractérisées par une forte solidarité communautaire, qui peut jouer un rôle dans la gestion du stress et des problèmes de santé mentale.
   - Politiques de santé publique : Certains pays (comme Cuba ou le Costa Rica) investissent massivement dans des systèmes de santé préventifs, garantissant une espérance de vie élevée malgré un PIB relativement faible.
   - Culture et famille : La famille joue un rôle central dans les sociétés latino-américaines, ce qui peut contribuer au bien-être global.
+
 
 ## 🔗 Ressources
 Données sur l'espérance de vie : [Liste des pays par espérance de vie (Wikipedia)](https://fr.wikipedia.org/wiki/Liste_des_pays_par_esp%C3%A9rance_de_vie)
