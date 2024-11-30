@@ -42,11 +42,19 @@ Le projet se concentre sur :
 
 Les pays Méditerranéens et Latino-Américains se distinguent :
 95 % des pays Méditerranéens et 94,12 % des pays Latino-Américains sont "au-dessus de la tendance".
-Les différences entre les résidus moyens des régions sont significatives.
+Ces résultats indiquent que la grande majorité des pays de ces deux régions ont une espérance de vie nettement supérieure à ce que leur niveau de richesse économique laisserait présager.
 
 ![Espérance de vie vs PIB](esperance_vie_vs_pib_mediterranee_amerique_latine.png)
 
 *Figure 1 : Analyse de la relation entre l'espérance de vie et le PIB, avec un focus sur les régions Méditerranée et Amérique Latine.*
+
+Le graphique illustre la corrélation globale entre l'espérance de vie et le PIB par habitant (logarithme naturel), ainsi que les performances des pays Méditerranéens (orange) et Latino-Américains (violet).
+La ligne de régression permet de visualiser la tendance globale, tandis que les résidus mettent en évidence les pays surperformants ou sous-performants.
+
+Test de normalité des résidus :
+Le test de Shapiro-Wilk a été utilisé pour évaluer la normalité des résidus :
+Statistique : 0.9387, p-value > 0.05.
+Cela indique que les résidus suivent approximativement une distribution normale, ce qui valide l'utilisation de la régression linéaire pour analyser la relation entre PIB et espérance de vie.
 
 **Facteurs possibles expliquant la surperformance** :
 
